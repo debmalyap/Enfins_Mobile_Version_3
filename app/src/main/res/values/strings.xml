@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QbentRecClick</string>
+    <string name="get_data">explore</string>
+    <string name="back_home">back to home</string>
+    <string name="back_list">back to list</string>
+    <string name="login_btn">sign in</string>
+    <string name="go_main">explore</string>
+    <string name="log_out">sign out</string>
+    <string name="home_button">home</string>
+
+    <string-array name="districts_lists">
+        <item>Kolkata</item>
+        <item>Howrah</item>
+        <item>Murshidabad</item>
+        <item>Paschim Medinipur</item>
+        <item>Purba Medinipur</item>
+        <item>Burdwan</item>
+        <item>Hooghly</item>
+        <item>Malda</item>
+    </string-array>
+    <string name="user_name">Name</string>
+    <string name="date">Formation date</string>
+    <string name="day">Collection day</string>
+    <string name="addr">Address</string>
+    <string name="pin">Pincode</string>
+    <string name="place">Place</string>
+    <string name="mob">Mobile no.</string>
+    <string name="country">Country name</string>
+    <string name="state">State name</string>
+    <string name="district">District name</string>
+    <string name="muni">Municipality</string>
+    <string name="word">Word</string>
+    <string name="blck">Block</string>
+    <string name="grampanch">Gram panchayet</string>
+    <string name="vlg">Village</string>
+</resources>
